@@ -1,0 +1,4 @@
+requests
+pandas
+apache-airflow
+s3fs
